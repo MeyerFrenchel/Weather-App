@@ -9,6 +9,7 @@ body {
     background-image: url('background.jpg');
     background-size: cover;
     background-position: center;
+    user-select: none; /*it prevents to selct and copy the text from website*/
 }
 .app-wrap {
     display: flex;
